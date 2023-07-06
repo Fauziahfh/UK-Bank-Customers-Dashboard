@@ -1,6 +1,7 @@
 # UK Bank Customers Dashboard
 
 Tool: Google Spreadsheet, Google Data Studio/Looker Studio
+Dataset: https://www.kaggle.com/datasets/ukveteran/uk-bank-customers
 
 [Link Dashboard Google Data Studio](https://lookerstudio.google.com/reporting/0ada6612-c848-424c-96dd-6f08890797f9)
 <p align="center">
